@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello, World!");
 
-static double getOtherAverage(int[] arr)
+static double getAverage(int[] arr)
 {
     double sum = 0;
     foreach (var number in arr)
